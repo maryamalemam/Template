@@ -1,0 +1,27 @@
+
+.section6 .card{margin:auto;}
+.card-img-top{margin:auto;}
+.d15{height: 380px;
+overflow: auto;
+background-repeat: no-repeat;
+background-position: cover;
+background-attachment: fixed;
+background-size: cover;
+position: relative;
+background-image: url('../img5/aa.jpg')}
+.overley4{width:100%;
+         height: 100%;
+         position:absolute;
+         background:rgba(0,0,0,.7)}
+.d14{height: 380px;
+overflow: auto;
+background-repeat: no-repeat;
+background-position: cover;
+background-attachment: fixed;
+background-size: cover;
+position: relative;
+background-image: url('../img5/79.jpg')}
+.overley3{width:100%;
+         height: 100%;
+         position:absolute;
+         background:rgba(0,0,0,.7)}
